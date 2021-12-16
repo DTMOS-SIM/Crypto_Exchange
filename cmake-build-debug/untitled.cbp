@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CSVReader/CSVReader.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CSVReader/CSVReader.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CommandLine/CommandLine.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CommandLine/CommandLine.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/MerkelMain.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/MerkelMain.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBook/OrderBook.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBook/OrderBook.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBookEntry/OrderBookEntry.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBookEntry/OrderBookEntry.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/Tokeniser/Tokeniser.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/Tokeniser/Tokeniser.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/Wallet/Wallet.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/Wallet/Wallet.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/_arithmetics/EMA_Optimiser/EMA_Optimiser.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/_arithmetics/EMA_Optimiser/EMA_Optimiser.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

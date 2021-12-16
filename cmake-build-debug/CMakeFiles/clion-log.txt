@@ -1,0 +1,4 @@
+"C:\Users\Sim Kim Wee\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Sim Kim Wee\CLionProjects\CryptoExchange"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/cmake-build-debug

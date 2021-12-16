@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CSVReader/CSVReader.cpp
+iostream
+-
+CSVReader.h
+C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CSVReader/CSVReader.h
+fstream
+-
+
+C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/CSVReader/CSVReader.h
+../OrderBookEntry/OrderBookEntry.h
+C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBookEntry/OrderBookEntry.h
+vector
+-
+string
+-
+
+C:/Users/Sim Kim Wee/CLionProjects/CryptoExchange/OrderBookEntry/OrderBookEntry.h
+string
+-
+
