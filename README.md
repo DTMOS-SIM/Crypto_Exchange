@@ -1,6 +1,6 @@
 # CryptoExchange
 
-CryptoExchange is an experimental C++ executable that is designed to simulation in house trading environment. 
+CryptoExchange is an experimental C++ executable that is designed to simulate in house trading environment. 
 This project surfaced in due of UOL's Object Oriented Programming modules.
 
 ## Installation
